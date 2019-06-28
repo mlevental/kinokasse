@@ -1,4 +1,4 @@
-package com.levental.kinokasse;
+package com.levental.kinokasse.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
